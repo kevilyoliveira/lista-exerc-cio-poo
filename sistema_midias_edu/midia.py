@@ -1,1 +1,19 @@
+# SISTEMA 1 — Mídias Educacionais
 
+## midia.py
+
+```python id="69o9za"
+from abc import ABC, abstractmethod
+
+class Midia(ABC):
+    def __init__(self, titulo, duracao):
+        self.titulo = titulo
+        self.duracao = duracao
+
+    def mostrar_info(self):
+        print(f"Título: {self.titulo}")
+        print(f"Duração: {self.duracao}")
+
+    @abstractmethod
+    def reproduzir(self):
+        pass
