@@ -1,5 +1,3 @@
-# SISTEMA 1 — Mídias Educacionais
-
 ## midia.py
 
 ```python id="69o9za"
