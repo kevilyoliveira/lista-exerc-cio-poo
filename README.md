@@ -25,8 +25,8 @@ Os projetos foram desenvolvidos em Python utilizando conceitos de:
 ```text
 lista-exercicios-poo-python/
 │
-├── sistema_midias_educacionais/
-├── sistema2_funcionarios_empresa/
+├── sistema_midias_edu/
+├── sistema2_funcionarios/
 ├── sistema3_notificacoes_abc/
 ├── sistema4_impressao_protocol/
 ├── sistema5_armazenamento/
@@ -53,7 +53,7 @@ Implementação de uma plataforma educacional capaz de armazenar diferentes tipo
 
 ### Executar
 ```bash
-cd sistema1_midias_educacionais
+cd sistema_midias_edu
 python main.py
 ```
 
@@ -77,7 +77,7 @@ Implementação de uma empresa que gerencia diferentes tipos de funcionários e 
 
 ### Executar
 ```bash
-cd sistema2_funcionarios_empresa
+cd sistema2_funcionarios
 python main.py
 ```
 
@@ -165,7 +165,7 @@ python main.py
 1. Clone o repositório:
 
 ```bash
-git clone https://github.com/kevilyoliveira/lista-exercicios-poo-python.git
+git clone https://github.com/kevilyoliveira/lista-exerc-cio-poo.git
 ```
 
 2. Entre na pasta desejada:
